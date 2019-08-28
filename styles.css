@@ -1,0 +1,20 @@
+* {
+    margin: 10px 5px;
+}
+
+nav {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+a, p {
+    padding: 0 15px;
+}
+
+.listing {
+    padding: 0 15px;
+}
+
+.email {
+    color: royalblue;
+}
